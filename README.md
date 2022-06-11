@@ -16,7 +16,7 @@
 - [x] Buscar por perfil na API do GitHub.
 - [x] Adicionar perfil na lista (via localStorage).
 - [x] Excluir perfil da lista (via localStorage).
-- [x] Validação para não adicionar um mesmo perfil duas vezes a lista
+- [x] Validação para não adicionar um mesmo perfil duas vezes a lista.
 
 ## :rocket: Tecnologias
 
